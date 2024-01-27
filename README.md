@@ -22,7 +22,7 @@ CSVExplorerAI is a Streamlit-powered web application that allows users to intera
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/CSVExplorerAI.git
+    git clone [https://github.com/Alkamal01/CSVExplorerAI.git]
     cd CSVExplorerAI
     ```
 
